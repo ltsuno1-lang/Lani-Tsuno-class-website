@@ -1,0 +1,16 @@
+
+body{
+    background-color: #caecf7;
+    color: #1c44d3;
+    font-family: Arial, sans-serif;
+    h1{ font-size: 60px; font-family: "poppins", sans-serif;color: #be6dca; }
+
+    h2{ font-size: 40px; font-family: "poppins", sans-serif; color: #3f03b7; }
+
+    p{ font-size: 20px; font-family: "poppins", sans-serif; color: #1992a2; }
+    mark { background-color: #c500bf; color: #ffffff;font-family: "poppins", sans-serif; font-size: 20px; }
+    blockquote { font-size: 15px; font-family: "poppins", sans-serif; color: #3f03b7; }
+    a { font-size: 18px; font-family: "poppins", sans-serif; color: #3f03b7; }
+    li { font-size: 18px; font-family: "poppins", sans-serif; color: #3f03b7; }
+    img { border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); }
+}
