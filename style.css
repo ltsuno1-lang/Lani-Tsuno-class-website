@@ -1,0 +1,24 @@
+
+body{
+    background-color: #b5d3ff;
+    color: #1c44d3;
+    font-family: Arial, sans-serif;
+    h1{ font-size: 60px; font-family: "poppins", sans-serif;color: #be6dca; }
+
+    h2{ font-size: 40px; font-family: "poppins", sans-serif; color: #3f03b7; }
+
+    p{ font-size: 20px; font-family: "poppins", sans-serif; color: #1992a2; }
+    mark { background-color: #7f3b8e; color: #ffffff;font-family: "poppins", sans-serif; font-size: 20px; }
+    blockquote { font-size: 15px; font-family: "poppins", sans-serif; color: #3f03b7; }
+    a { font-size: 18px; font-family: "poppins", sans-serif; color: #3f03b7; }
+    li { font-size: 18px; font-family: "poppins", sans-serif; color: #3f03b7; }
+    img { border-radius: 10px; box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.5); }
+    #links {background-color: #e2c7e2; padding: 5px; border-radius: 10px; 
+    ; margin-top: 10px; 
+width: 300px;}
+#paragraph {width: 600px}
+.highlight { background-color: #4588b4; color: #ffffff; padding: 5px; border-radius: 5px;
+ font-family: "poppins", sans-serif; font-size: 20px;width: 600px; }
+#about {background-color: #e2c7e2; padding: 35px; border-radius: 10px;  ; margin-top: 30px; margin-bottom: 30px;
+ width: 600px; font-family: "poppins", sans-serif; font-size: 20px; color: #3f03b7; length: 300px}
+}
